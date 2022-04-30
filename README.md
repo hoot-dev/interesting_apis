@@ -6,3 +6,7 @@ Just a list of Interesting APIs
 [Marvel API](https://developer.marvel.com/)
 
 [Open Library API](https://openlibrary.org/developers/api)
+
+[Merriam-Webster Dictionary API](https://dictionaryapi.com/)
+
+[Free Dictionary API](https://dictionaryapi.dev/)
